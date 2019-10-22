@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop-desk",
+    "texture": "84dc5fc7-0e81-438c-b9b7-cc8e7cd209d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      923,
+      247
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      923,
+      247
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
