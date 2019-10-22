@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miner-face-whistle-0",
+    "texture": "a6a9f571-79c9-4ecf-a976-27949099a045",
+    "atlas": "eb5698ab-96fd-4d58-98f5-00360b758e71",
+    "rect": [
+      546,
+      767,
+      85,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
