@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menu-miner",
+    "texture": "44e6586f-a4ed-42cf-bc50-a082378e5070",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      230,
+      543
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      543
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

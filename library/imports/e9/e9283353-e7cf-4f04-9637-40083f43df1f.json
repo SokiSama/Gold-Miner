@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "level-sheet",
+    "texture": "13ef0936-0872-4ee9-bf84-4dd2f65bf7eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1024,
+      1018
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
