@@ -1,5 +1,7 @@
 # 黄金矿工
 
+## 如果项目无法启动请删除assets与library文件夹里所有的test文件
+
 美术资源来源 → http://forum.cocos.com/t/topic/40605 
 
 使用 cocos creator 2.0.8 制作
@@ -18,6 +20,8 @@
 
 # Golden Miner
 
+## if project cannot be started，delete all test file at assets and library folder
+ 
 Source of art resources →  http://forum.cocos.com/t/topic/40605
 
 Based on cocos creator 2.0.8.
