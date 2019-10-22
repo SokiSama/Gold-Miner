@@ -1,0 +1,95 @@
+2019-10-21T02:35:07.482Z - normal: Load ~/.CocosCreator/settings.json
+2019-10-21T02:35:08.843Z - normal: Initializing Asset Database
+2019-10-21T02:35:08.850Z - normal: checking language setting...
+2019-10-21T02:35:08.851Z - normal: Language: zh
+2019-10-21T02:35:12.318Z - success: preview server running at http://localhost:7456
+2019-10-21T02:35:12.321Z - success: protocol editor-framework registered
+2019-10-21T02:35:12.321Z - success: protocol app registered
+2019-10-21T02:35:12.321Z - success: protocol theme registered
+2019-10-21T02:35:12.321Z - success: protocol packages registered
+2019-10-21T02:35:12.322Z - success: protocol uuid registerred
+2019-10-21T02:35:12.322Z - success: protocol db registerred
+2019-10-21T02:35:12.322Z - success: protocol thumbnail registerred
+2019-10-21T02:35:12.322Z - success: protocol unpack registerred
+2019-10-21T02:35:12.322Z - success: protocol disable-commonjs registerred
+2019-10-21T02:35:12.612Z - normal: connected!
+2019-10-21T02:35:12.615Z - normal: Check project D:\下载\gold  修改版
+2019-10-21T02:35:12.619Z - normal: Initializing project D:\下载\gold  修改版
+2019-10-21T02:35:14.758Z - normal: Initializing Cocos2d
+2019-10-21T02:35:17.096Z - normal: Initializing engine extends
+2019-10-21T02:35:17.137Z - success: asset-db-debugger loaded
+2019-10-21T02:35:17.173Z - success: code-editor loaded
+2019-10-21T02:35:17.177Z - success: color-picker loaded
+2019-10-21T02:35:17.620Z - success: fb-audience-network loaded
+2019-10-21T02:35:17.975Z - success: fb-live-stream loaded
+2019-10-21T02:35:18.000Z - success: google-play-instant loaded
+2019-10-21T02:35:18.039Z - success: huawei-runtime loaded
+2019-10-21T02:35:18.041Z - success: jsb-adapter loaded
+2019-10-21T02:35:18.060Z - success: oppo-runtime loaded
+2019-10-21T02:35:18.078Z - success: package-manager loaded
+2019-10-21T02:35:18.788Z - success: qqplay-adapter loaded
+2019-10-21T02:35:18.791Z - success: runtime-dev-tools loaded
+2019-10-21T02:35:18.938Z - success: sdkbox loaded
+2019-10-21T02:35:18.944Z - success: tester loaded
+2019-10-21T02:35:18.949Z - success: ui-grid loaded
+2019-10-21T02:35:18.952Z - success: ui-kit-preview-extra loaded
+2019-10-21T02:35:18.955Z - success: ui-kit-preview loaded
+2019-10-21T02:35:18.959Z - success: ui-kit loaded
+2019-10-21T02:35:18.966Z - success: ui-tree loaded
+2019-10-21T02:35:18.986Z - success: vivo-runtime loaded
+2019-10-21T02:35:18.987Z - success: weapp-adapter loaded
+2019-10-21T02:35:19.090Z - success: assets loaded
+2019-10-21T02:35:19.094Z - success: builder loaded
+2019-10-21T02:35:19.681Z - success: cocos-services loaded
+2019-10-21T02:35:19.697Z - success: console loaded
+2019-10-21T02:35:19.752Z - success: fb-instant-games loaded
+2019-10-21T02:35:19.758Z - success: google-instant-games loaded
+2019-10-21T02:35:19.768Z - success: hierarchy loaded
+2019-10-21T02:35:19.773Z - success: inspector loaded
+2019-10-21T02:35:19.775Z - success: keystore loaded
+2019-10-21T02:35:19.782Z - success: node-library loaded
+2019-10-21T02:35:19.787Z - success: package-asset loaded
+2019-10-21T02:35:19.791Z - success: preferences loaded
+2019-10-21T02:35:19.794Z - success: project-exporter loaded
+2019-10-21T02:35:19.809Z - success: project-importer loaded
+2019-10-21T02:35:19.812Z - success: project-settings loaded
+2019-10-21T02:35:19.819Z - success: scene loaded
+2019-10-21T02:35:19.821Z - success: simulator-debugger loaded
+2019-10-21T02:35:19.823Z - success: sprite-editor loaded
+2019-10-21T02:35:19.829Z - success: store loaded
+2019-10-21T02:35:19.835Z - success: timeline loaded
+2019-10-21T02:35:32.646Z - normal: Loading packages
+2019-10-21T02:35:32.655Z - normal: Watching packages
+2019-10-21T02:35:34.213Z - info: Cocos Services load base data!
+2019-10-21T02:35:34.481Z - normal: Run Application
+2019-10-21T02:35:47.605Z - warn: Please change the definition of property 'BGM' in class 'IndexMain'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    BGM: cc.Texture2D,
+    // or:
+    BGM: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    BGM: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-10-21T02:35:47.607Z - warn: Please change the definition of property 'BGM' in class 'go game'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    BGM: cc.Texture2D,
+    // or:
+    BGM: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    BGM: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-10-21T02:38:55.237Z - info: shutdown preview server
