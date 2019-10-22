@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "眼镜",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": "1",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": []
+      }
+    },
+    "props": {
+      "x": [],
+      "y": [],
+      "scale": []
+    }
+  },
+  "events": []
+}
