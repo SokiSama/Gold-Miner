@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miner-sheet-1",
+    "texture": "64303551-a537-4123-a2b3-da5384ca1810",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1014,
+      1016
+    ],
+    "offset": [
+      -3,
+      2
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
