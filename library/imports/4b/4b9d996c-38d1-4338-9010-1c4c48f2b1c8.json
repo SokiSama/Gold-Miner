@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "miner-sheet-1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "miner-happy-0": {
+      "__uuid__": "a060c2cb-95d6-4e81-a2fc-9d3dd17f4900"
+    },
+    "miner-happy-1": {
+      "__uuid__": "15fd7989-c2d3-4f21-b791-b10029bdc336"
+    },
+    "miner-pull-heavy-0": {
+      "__uuid__": "5ffad373-8146-4234-8c4d-a80b3032cd67"
+    },
+    "miner-pull-heavy-1": {
+      "__uuid__": "cb9423e8-32c8-46c7-9945-2ea0c148a18a"
+    },
+    "miner-pull-heavy-10": {
+      "__uuid__": "ebb93681-07f6-4cc7-939e-86d602570d88"
+    },
+    "miner-pull-heavy-2": {
+      "__uuid__": "815e8eca-c7df-4914-b2f4-9ab4b55d3cea"
+    },
+    "miner-pull-heavy-3": {
+      "__uuid__": "78a85bda-a3ec-44aa-b70d-5a4a7e4c7b67"
+    },
+    "miner-pull-heavy-4": {
+      "__uuid__": "fc24b034-2a28-4ae5-a63b-9359c8e7a15c"
+    },
+    "miner-pull-heavy-5": {
+      "__uuid__": "305e03e9-c9f5-47c7-b58d-8fbb959d0b14"
+    },
+    "miner-pull-heavy-6": {
+      "__uuid__": "966f96c1-b9a9-40dc-9cd9-baabfe6a941a"
+    },
+    "miner-pull-heavy-7": {
+      "__uuid__": "a8600c42-24dd-4a5f-b082-0f313b3d1866"
+    },
+    "miner-pull-heavy-8": {
+      "__uuid__": "1c2f5ced-9474-4cac-9832-fc51584078c2"
+    },
+    "miner-pull-heavy-9": {
+      "__uuid__": "555cae79-5918-43f7-a358-0756569ffe10"
+    },
+    "miner-pull-light-0": {
+      "__uuid__": "451dffa6-62ef-403b-8a61-5e8811e73956"
+    },
+    "miner-pull-light-1": {
+      "__uuid__": "a1ab0ab1-d188-4ea4-a5eb-d1971c920329"
+    },
+    "miner-pull-light-2": {
+      "__uuid__": "bb2b4059-ae79-4fd8-925c-75272cc79e9b"
+    },
+    "miner-pull-light-3": {
+      "__uuid__": "e890b7f1-a4d2-479a-ab42-a112e52f66b7"
+    },
+    "miner-pull-light-4": {
+      "__uuid__": "8dc9d390-8861-458b-8941-16e59e3ffc1a"
+    },
+    "miner-pull-light-5": {
+      "__uuid__": "999cf36b-46d1-4ee8-a846-b0effa3263f9"
+    },
+    "miner-sad-0": {
+      "__uuid__": "113aa7dd-7354-4033-bec9-f26107219729"
+    },
+    "miner-sad-1": {
+      "__uuid__": "51a3c3ab-6c91-4751-b493-fc93c2b04c8e"
+    }
+  }
+}
